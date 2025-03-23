@@ -1,5 +1,6 @@
 # Transcript2vioce
 
+** 项目一般,建议放弃 [[字幕转语音项目分析.md]]**
 ## 这是一个使用阿里云语音合成服务进行批量生成的脚本
 
 Transcript2vioce.py是主程序。
